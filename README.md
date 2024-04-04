@@ -1,7 +1,2 @@
-# todoapp
 
-**## Getting Started**
-
-This project is a starting point for a Flutter application.
-
-Todoapp used to your daily task easily noted and that task in finshed in easily delete the task.
+![Screenshot_1712215543](https://github.com/bharthasarthi/todoapp/assets/151835322/7827217e-0f84-43b7-87e8-d24543c30568)
